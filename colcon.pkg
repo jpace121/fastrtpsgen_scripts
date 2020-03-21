@@ -1,0 +1,5 @@
+{
+   "name": "fastrtpsgen_scripts",
+   "dependencies": ["fastrtpsgen"],
+   "hooks": ["share/fastrtpsgen_scripts/hook/hook.sh"]
+}
